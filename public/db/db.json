@@ -1,0 +1,56 @@
+{
+    "ti2": [
+        {
+            "id": 1,
+            "question": "Podaj podstawową strukturę dokumentu HTML."
+        },
+        {
+            "id": 2,
+            "question": "Do czego służy metoda fetch?"
+        },
+        {
+            "id": 3,
+            "question": "Czym jest znacznik <input>?"
+        },
+        {
+            "id": 4,
+            "question": "Jak wygląda selektor odwołujący się do elementu html posiadającego id?"
+        }
+    ],
+    "ti3": [
+        {
+            "id": 1,
+            "question": "Podaj podstawową strukturę dokumentu HTML."
+        },
+        {
+            "id": 2,
+            "question": "Do czego służy metoda fetch?"
+        },
+        {
+            "id": 3,
+            "question": "Czym jest znacznik <input>?"
+        },
+        {
+            "id": 4,
+            "question": "Jak wygląda selektor odwołujący się do elementu html posiadającego id?"
+        }
+    ],
+    "ti4": [
+        {
+            "id": 1,
+            "question": "Podaj podstawową strukturę dokumentu HTML."
+        },
+        {
+            "id": 2,
+            "question": "Do czego służy metoda fetch?"
+        },
+        {
+            "id": 3,
+            "question": "Czym jest znacznik <input>?"
+        },
+        {
+            "id": 4,
+            "question": "Jak wygląda selektor odwołujący się do elementu html posiadającego id?"
+        }
+    ]
+}
